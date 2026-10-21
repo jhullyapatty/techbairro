@@ -1,5 +1,9 @@
 # Changelog da TechBairro
 
+## Em desenvolvimento
+### Adicionado
+- Código publicado no GitHub, com histórico de versões.
+
 ## v3.3.1 (Aula 21)
 ### Alterado
 - Foi divido partes do codigo central(techbairro) em arquivos separados.
