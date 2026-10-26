@@ -1,0 +1,13 @@
+# TechBairro: dependências do projeto
+#
+# Este projeto NÃO tem dependências externas.
+# Não é preciso instalar nenhum pacote com o pip.
+#
+# Ele usa apenas módulos da biblioteca padrão do Python,
+# que já vêm junto com o Python:
+#   tkinter  - janela e botões da tela
+#   sqlite3  - banco de dados que guarda os clientes
+#   os       - caminhos de pastas e arquivos
+#
+# Comando de conferência (termina sem erro e sem instalar nada):
+#   pip install -r requirements.txt
