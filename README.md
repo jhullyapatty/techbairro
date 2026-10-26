@@ -24,6 +24,7 @@ Sistema de cadastro de clientes para a associação de moradores, com janela gr�
 | Internet | Só para baixar o projeto. Para usar o sistema, não precisa |
 
 ## Instalação
+Abra o terminal em uma pasta vazia, fora de outros projetos, antes de rodar o comando abaixo.
 
 **Opção 1: com Git**
 
