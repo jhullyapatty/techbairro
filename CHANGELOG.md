@@ -1,5 +1,12 @@
 # Changelog da TechBairro
 
+## v3.3.2 (Aula 27)
+### Adicionado
+- README com requisitos, instalação e configuração do banco.
+- Arquivo requirements.txt.
+- Manual de uso em docs/manual_de_uso.md.
+- Registro de testes em docs/registro_de_testes.md.
+
 ## Em desenvolvimento
 ### Adicionado
 - Código publicado no GitHub, com histórico de versões.

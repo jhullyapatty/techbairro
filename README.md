@@ -2,7 +2,7 @@
 
 Sistema de cadastro de clientes para a associação de moradores, com janela gráfica simples. Permite cadastrar, consultar, alterar e excluir clientes. Os dados ficam guardados no computador da secretaria e continuam lá depois de fechar o programa.
 
-**Versão atual:** 3.3.1 · Histórico de mudanças no [CHANGELOG](CHANGELOG.md)
+**Versão atual:** 3.3.2 · Histórico de mudanças no [CHANGELOG](CHANGELOG.md)
 
 ## Funcionalidades
 
