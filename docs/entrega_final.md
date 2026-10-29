@@ -13,7 +13,7 @@ Por que esse número de versão: Desde a versão 3.3.1 só acrescentei documenta
 | 6 | O histórico tem commits com mensagens claras | https://github.com/jhullyapatty/techbairro/commits |
 | 7 | README, manual de uso e requirements.txt estão no repositório | README.md, docs/manual_de_uso.md e requirements.txt |
 | 8 | A Issue "Teste do README" (Aula 26) está fechada | Issue #1 fechada pelo commit com "Closes #1" |
-| 9 | O vídeo está publicado e o link abre sem pedir login | https://youtu.be/NaqsKxTbwZU?is=ssSD-Y1h7ZQqbODb |
+| 9 | O vídeo está publicado e o link abre sem pedir login |https://youtu.be/9ynOUYewUJM?is=QZzjc2LHBNCzAzsA |
 
 ## Roteiro do vídeo
 | Bloco | Tempo | O que vou mostrar ou dizer |
