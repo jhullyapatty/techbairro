@@ -8,7 +8,7 @@ Por que esse número de versão: Desde a versão 3.3.1 só acrescentei documenta
 | 1 | A aplicação funciona: os 6 casos de teste passaram | docs/registro_de_testes.md |
 | 2 | A versão aparece na janela e é a mesma do CHANGELOG e do README | Janela mostra v3.3.2 no canto; VERSAO = "3.3.2" no techbairro.py; entrada v3.3.2 no CHANGELOG.md; "Versão atual" 3.3.2 no README.md |
 | 3 | O pacote foi testado numa pasta limpa | Extraí dist/TechBairro-3.3.2.zip na Área de Trabalho e rodei python techbairro.py: a janela mostrou v3.3.2 e o contador começou em 0 |
-| 4 | Tag e release publicadas, com o .zip anexado | Tag v3.3.2 e TechBairro-3.3.2.zip anexado: LINK_DA_RELEASE |
+| 4 | Tag e release publicadas, com o .zip anexado | Tag v3.3.2 e TechBairro-3.3.2.zip anexado: https://github.com/jhullyapatty/techbairro/releases/tag/v3.3.2 |
 | 5 | O repositório não tem banco, __pycache__ nem dist | O .gitignore ignora techbairro.db, __pycache__/, *.pyc e dist/; esses itens não aparecem na página do repositório |
 | 6 | O histórico tem commits com mensagens claras | https://github.com/jhullyapatty/techbairro/commits |
 | 7 | README, manual de uso e requirements.txt estão no repositório | README.md, docs/manual_de_uso.md e requirements.txt |
